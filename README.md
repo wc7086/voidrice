@@ -9,7 +9,7 @@ These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
 	- zsh (shell)
 	- lf (file manager)
 	- mpd/ncmpcpp (music)
-	- sxiv (image/gif viewer)
+	- nsxiv (image/gif viewer)
 	- mpv (video player)
 	- other stuff like xdg default programs, inputrc and more, etc.
 - I try to minimize what's directly in `~` so:
@@ -42,7 +42,7 @@ curl -LO larbs.xyz/larbs.sh
 ```
 
 or clone the repo files directly to your home directory and install the
-[dependencies](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv).
+[dependencies](https://github.com/LukeSmithxyz/LARBS/blob/master/static/progs.csv).
 
 ## Default Desktop Artwork
 
